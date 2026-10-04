@@ -14,10 +14,6 @@ npm init -y
 npm install package-name
 ```
 
-## Gotchas
-| Problem | Fix |
-|---------|-----|
-|         |     |
 
 ## Repo workflow
 
@@ -40,3 +36,10 @@ git push
 ```bash
 ls -R
 ```
+
+
+
+## Gotchas
+| Problem | Fix |
+|---------|-----|
+|         |     |
