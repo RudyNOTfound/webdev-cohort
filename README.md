@@ -1,12 +1,14 @@
 # Web Dev Cohort
 
 My notes, code, and projects from Harkirat's web dev course.
+ 
+- [Slides and Assignments](https://100xschool.notion.site/100xSchool-Live-Bootcamp-Slides-2e2ffffa33e580c297a2fed689328db2)
 
 ## Progress
 
 | Week | Topic | Status |
 |------|-------|--------|
-| 1 | Javascript - Callbacks, Promises | In progress |
+| 1 | Async, functional arg/callbacks,  | In progress |
 
 ## Weeks
 
