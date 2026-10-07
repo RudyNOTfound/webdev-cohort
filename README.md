@@ -14,9 +14,11 @@ My notes, code, and projects from Harkirat's web dev course.
 
 ### Week 1
 - [Lecture 3: Promises, Callbacks, CPU vs IO Tasks](week-1/lecture-3-callbacks/notes.md)
+- [Lecture 3.1: Map, Filter and Arrow functions](week-1/lecture-3.1/notes.md)
 
 ## Projects
 - (add projects here)
 
 ## Quick links
 - [Cheatsheet](cheatsheet.md)
+
