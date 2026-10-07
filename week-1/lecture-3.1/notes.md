@@ -7,7 +7,7 @@
 (1-2 lines)
 
 ## Key concepts
-- arrow functions and normal functions are structurally different how they are different is the later part
+- arrow functions and normal functions are structurally different how they are different is the later part (for now just consider it as syntactically different)
 - their is no global filter or map function they come with array object
 - 
 
