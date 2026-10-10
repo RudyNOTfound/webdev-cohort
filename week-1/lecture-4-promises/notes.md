@@ -94,6 +94,10 @@ C
 B
 ```
 
+## Things Left To Do
+- create promise class assignment
+- week 4 slides left things after Callback hell
+
 ## Rebuilt from memory?
 - [ ] Day 1
 - [ ] After 1 week
