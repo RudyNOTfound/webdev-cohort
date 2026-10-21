@@ -26,10 +26,13 @@
 - always first write "how would i call this function" before writing the promise
 - Writing Promise NOTE: if functions used are callback based async functions syntax a bit complex whereas if we need to make a promisified function on top of promisified function syntax is easy [5. File](5.%20cleanFile_extendedQuestion.js)
 - The error in try catch may also come from a synchronous function also using `throw new Error()`
+- An async function always returns a Promise, regardless of whether the functions inside it are promisified or not.
 
 ## Diagram / Screenshot
 All three run parralelly, one that completes first logs first, random everytime
 ![alt text](image.png)
+Doubt of async function returning a promise cleared!!
+![alt text](image-1.png)
 
 ## Code I wrote
 - [filename](filename)
@@ -43,7 +46,7 @@ All three run parralelly, one that completes first logs first, random everytime
 - 
 
 ## Still unclear
-- 
+- return new error VS throw new error in async function
 
 ## Rebuilt from memory?
 - [ ] Day 1
