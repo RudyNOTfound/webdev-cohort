@@ -8,7 +8,8 @@ My notes, code, and projects from Harkirat's web dev course.
 
 | Week | Topic | Status |
 |------|-------|--------|
-| 1 | Async, functional arg/callbacks, promises, async await, DOM  | In progress |
+| 1 | Async, functional arg/callbacks, promises, async await, DOM  | Completed |
+| 2 | Ip/ domain name, methods, port, payload, status code, | In progress |
 
 ## Weeks
 
@@ -18,9 +19,10 @@ My notes, code, and projects from Harkirat's web dev course.
 - [Lecture 4: Promises](week-1/lecture-4-promises/notes.md)
 - [Lecture 5: Writing promises and async await](week-1/lecture-5-async_await_writingPromise/notes.md)
 - [Lecture 6: Starting Frontend ( DOM Basics )](week-1\lecture-6-DOM\notes.md)
+- [Lecture 7: HTTP Part 1](week-2/lecture-7-HTTP-Part-1/notes.md)
 
 ## Projects
-- (add projects here)
+- ToDoList
 
 ## Quick links
 - [Cheatsheet](cheatsheet.md)

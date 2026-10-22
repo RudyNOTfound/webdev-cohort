@@ -48,12 +48,12 @@ ls -R
 Change the week number, lecture number, and topic each time:
 ```bash
 # 1. Create the folder, notes file, and images folder
-mkdir -p week-1/lecture-2-css/images
-cp _template/notes.md week-1/lecture-2-css/notes.md
-touch week-1/lecture-2-css/images/.gitkeep
+mkdir -p week-2/lecture-7-HTTP-Part-1/images
+cp _template/notes.md week-2/lecture-7-HTTP-Part-1/notes.md
+touch week-2/lecture-7-HTTP-Part-1/images/.gitkeep
 
 # 2. Add the link to the README index
-echo "- [Lecture 2: CSS](week-1/lecture-2-css/notes.md)" >> README.md
+echo "- [Lecture 7: HTTP Part 1](week-2/lecture-7-HTTP-Part-1/notes.md)" >> README.md
 
 # 3. Save to GitHub
 git add .
